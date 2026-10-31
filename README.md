@@ -1,17 +1,11 @@
 # hackspec
 
-## Overview
-
-No repository description is currently provided.
+A frontend web page with supporting assets bundled in the repository.
 
 ## Technology
 
-N/A
+- HTML
 
-## Repository contents
+## Run
 
-`assets`, `index.html`
-
-## Notes
-
-This README documents the repository using metadata and files visible in the repository. See the source tree for the current implementation.
+Open `index.html` in a browser or serve the repository with any static web server.
